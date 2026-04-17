@@ -38,7 +38,7 @@ The application calculates diffusion coefficients and diffusion lengths using Ar
 
 The graphical interface allows interactive exploration of diffusion mechanisms, parameter tuning, and real-time visualization of diffusion coefficients and lengths.
 
-![Diffusion GUI](figures/diffusion_gui_overview.png)
+![Diffusion GUI](figures/diffusion_gui.png)
 
 ## Physical Model
 

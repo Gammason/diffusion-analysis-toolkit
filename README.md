@@ -34,6 +34,12 @@ The application calculates diffusion coefficients and diffusion lengths using Ar
 * Multi-point probing and annotation
 * Export of processed data and figures
 
+* ## Interface Preview
+
+The graphical interface allows interactive exploration of diffusion mechanisms, parameter tuning, and real-time visualization of diffusion coefficients and lengths.
+
+![Diffusion GUI](figures/diffusion_gui_overview.png)
+
 ## Physical Model
 
 Diffusion is calculated using the Arrhenius relation:
